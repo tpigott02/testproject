@@ -12,6 +12,14 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://tpigott02.github.io/testproject/annotations/afrique_sur_seine-canvas-1-timpoint.json",
+            "label": {
+              "none": ["timpoint"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://tpigott02.github.io/testproject/annotations/afrique_sur_seine-canvas-1-timepoints.json",
             "label": {
               "none": ["timepoints"]
