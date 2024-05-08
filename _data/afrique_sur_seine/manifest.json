@@ -8,6 +8,24 @@
         "id": "https://tpigott02.github.io/testproject/afrique_sur_seine/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1354.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tpigott02.github.io/testproject/annotations/afrique_sur_seine-canvas-1-timepoints.json",
+            "label": {
+              "none": ["timepoints"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tpigott02.github.io/testproject/annotations/afrique_sur_seine-canvas-1-structure.json",
+            "label": {
+              "none": ["structure"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tpigott02.github.io/testproject/afrique_sur_seine/canvas-1/paintings",
