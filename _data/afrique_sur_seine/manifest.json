@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tpigott02.github.io/testproject/afrique_sur_seine/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "afrique_sur_seine" ] },
+    "items": [
+      {
+        "id": "https://tpigott02.github.io/testproject/afrique_sur_seine/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1354.0,
+        "items": [
+          {
+            "id": "https://tpigott02.github.io/testproject/afrique_sur_seine/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://tpigott02.github.io/testproject/afrique_sur_seine/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://dlib.indiana.edu/avannotate/bouchard/AFRIQUE_SUR_SEINEbluray-high.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 1354.0
+                },
+                "target": "https://tpigott02.github.io/testproject/afrique_sur_seine/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
